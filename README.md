@@ -1,4 +1,4 @@
-# Dillinger
+# IE-React-Polyfills
 
 [![N|Solid](https://www.noritex.com/logo.jpg)](https://www.norite.com/es/)
 
