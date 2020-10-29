@@ -11,6 +11,7 @@ Noritex React polyfills for cross browser compatability all the way to IE 11
 
 -   The way we do is like this:
     `
+    
             function isIE() {
                 var ua = navigator.userAgent;
                 /_ MSIE used to detect old browsers and Trident used to newer ones_/
